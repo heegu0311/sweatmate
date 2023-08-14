@@ -1,6 +1,6 @@
 # 📒 서비스 소개
 <br>
-<img src="https://sweatmate.s3.ap-northeast-2.amazonaws.com/logo-transparent3x.png" width="500">
+<img src="https://github.com/heegu0311/sweatmate/assets/13115713/ba6445b8-b307-4135-a36e-20f72d6fa9e3" width="500">
 <br>
 <br>
 
@@ -34,7 +34,8 @@ Sweatmate(스웻메이트)는 함께 운동할 사람을 찾고 싶지만 동호
 <summary>랜딩 페이지</summary>
 <div markdown="1">       
 <br>
-    <img src="https://user-images.githubusercontent.com/13115713/141731331-be416bd3-8dc9-49fc-a5a7-b417e676222d.gif" width="550">
+    <img src="https://user-images.githubusercontent.com/13115713/141731331-be416bd3-8dc9-49fc-a5a7-b417e676222d.gif"![long-logo](https://github.com/heegu0311/sweatmate/assets/13115713/b8128035-e1d8-4870-a25c-48c58ac1d5f5)
+ width="550">
     <img src="https://user-images.githubusercontent.com/13115713/141725706-56a533a0-e883-4ee4-8901-820e1151e4ff.gif" width="210">
 </div>
 </details>
@@ -206,4 +207,3 @@ Sweatmate(스웻메이트)는 함께 운동할 사람을 찾고 싶지만 동호
 🍀 [프로젝트 소개 문서](https://www.notion.so/9-Let-s-Sweatmate-89fc72c3899a425caebdf0eb02695514)
 
 📖 [위키](https://github.com/codestates/sweatmate/wiki)
-
